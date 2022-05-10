@@ -1,0 +1,25 @@
+.card-white {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.text {
+  text-align: center;
+}
+
+.card-white-apply, .card-white-learntocode, .card-white-buildproducts {
+  width: 150px;
+  height: 180px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px grey;
+  padding: 20px;
+  border: 1px solid grey;
+  text-align: center;
+  font-size: 15px;
+}
+
+.simpson {
+  width: 80px;
+  height: 100px;
+}

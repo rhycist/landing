@@ -1,0 +1,21 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  padding: 100px;
+  background-position: center;
+}
+
+.banner h2, .banner p {
+  color: white;}
+
+.btn-green {
+  background: rgb(126, 225, 126);
+  color: white;
+  padding: 10px 10px;
+  border-radius: 30px;
+  transition: 0.6s;
+}
+
+.btn-green:hover {
+  background: rgb(75, 150, 75);
+}
